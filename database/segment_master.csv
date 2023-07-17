@@ -1,0 +1,6 @@
+Segment Name,Criteria Array
+Loyal,"[1, 2, -3]"
+BigSpender,"[1, 5, 6]"
+DealSeeker,"[5, -6]"
+Churned,"[-2, -8]"
+NewCustomer,"[-1, -2, 8]"
